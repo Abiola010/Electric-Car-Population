@@ -70,8 +70,10 @@ advancement battery electric vehicles are 77.06% off while Plug-in Hybrid Vehicl
 ![image](https://user-images.githubusercontent.com/124578882/225068620-b8c3f2fe-68a9-408f-92f3-26fc6524d95e.png)
 
 
-**Recommendation:** More electric vehicles should be manufactured across the globe, so as to reduce air pollution caused by exhaust from diesel and gasoline vehicles used earlier before the invention of electric cars.
-
+**Recommendation:** 
+- Makers should create more awareness for the use of electric vehicles. 
+- More electric vehicles should be manufactured across the globe, so as to reduce air pollution caused by exhaust from diesel and gasoline vehicles used earlier before the invention of electric cars.
+- Governments of developing countries should collaborate with manufacturers in order to open more sales outlet or establish electric vehicles assembling plants in their countries.
 
 ![image](https://user-images.githubusercontent.com/124578882/225068660-8fc0ba00-082b-4c58-8624-7c48bd3d10d8.png)
 
