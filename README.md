@@ -28,41 +28,51 @@ Here are a few of the most popular stages and techniques for data cleaning: • 
 I took some steps to clean this dataset Firstly, I alighted all using Ctrl+A and converted the dataset to a table format using Ctrl+T and formatting the table.
 
 ![image](https://user-images.githubusercontent.com/124578882/225068061-6c43899e-ffeb-417f-84b6-d80336f906c9.png)
+
 Dataset in excel
 
 **Data Visualization**
 The are over 2000 Electric vehicles in population across 47 different countries, amongst 30 manufacturers.
+
 ![image](https://user-images.githubusercontent.com/124578882/225068350-083404f0-d183-4bca-b8ae-3790f461d731.png)
 
 
 **Count by Maker**
 Tesla a top leading technological company also takes the lead in producing the highest number of Electric Vehicles. Other top Electric Car Makers (Manufacturers) include; Nissan, Chevrolet, Ford, and Toyota.
+
 ![image](https://user-images.githubusercontent.com/124578882/225068386-2cef574c-4e98-4dde-a111-b0a6be6eed78.png)
 
 
 **Vehicles by Country**
 Out of over Forty (40) countries where registered owners reside; King, Snohomish, Pierce, Clark, and Thurston are the top five countries where registered electric vehicles owner resides.
+
 ![image](https://user-images.githubusercontent.com/124578882/225068414-bb37aeae-0c05-4d4e-b446-454ffe5a05c8.png)
 
 
 **Most popular city by electric car:** Different cities among over 200 cities where the registered owner resides. Seattle, Bellevue, and others take the lead with about 18%, 5%, and 77% respectively of the total cities in over 47 countries.
+
 ![image](https://user-images.githubusercontent.com/124578882/225068458-0dc8cb7b-c7d0-46bc-a023-f44889822505.png)
 
 
 **Electric Vehicle Type by Maker:** Electric Vehicles are majorly categorized into two. Tesla, Nissan, Chevrolet, Ford, and Toyota produced about 200k, 6000, 5000, 3000, and 2000 respectively for both vehicle types.
+
 ![image](https://user-images.githubusercontent.com/124578882/225068531-23aa03ca-5cbf-4006-9189-7c267ee29740.png)
 
 
 **Electric Vehicle Type:** Electric Vehicles are majorly categorized into battery and Plug-in Hybrid. Due to gradual technological 
 advancement battery electric vehicles are 77.06% off while Plug-in Hybrid Vehicles which are just been introduced take 22.94%.
+
 ![image](https://user-images.githubusercontent.com/124578882/225068574-9e6a2bbd-aee7-42ab-84e6-c56347f90925.png)
 
 
 **Maker by Model Year and Model:** Different manufacturers produce various types of vehicle models during the years under review. In 2020,2021,2022 had two most produced different models (Model 3 and Model Y).
+
 ![image](https://user-images.githubusercontent.com/124578882/225068620-b8c3f2fe-68a9-408f-92f3-26fc6524d95e.png)
 
 
-**Recommendation:** More electric vehicles should be manufactured across the globe, so as to reduce air pollution caused by exhaust from diesel and gasoline vehicles used earlier before the invention of electric cars. 
+**Recommendation:** More electric vehicles should be manufactured across the globe, so as to reduce air pollution caused by exhaust from diesel and gasoline vehicles used earlier before the invention of electric cars.
+
+
 ![image](https://user-images.githubusercontent.com/124578882/225068660-8fc0ba00-082b-4c58-8624-7c48bd3d10d8.png)
 
 
